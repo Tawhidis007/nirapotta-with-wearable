@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".StartingActivity"
+    android:id="@+id/rootLayout"
+    android:gravity="bottom|center">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:src="@drawable/hh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <ImageView
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center|top"
+        android:scaleType="centerCrop"
+        android:src="@drawable/nirapotta_logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+
+    <LinearLayout
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical"
+        android:layout_gravity="bottom|center"
+        android:layout_width="230dp"
+        android:layout_height="200dp">
+
+        <Button
+            android:layout_marginBottom="10dp"
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sign in"
+            android:onClick="onLogin"
+            android:background="@drawable/register_button"
+
+            />
+
+        <Button
+            android:layout_marginBottom="10dp"
+            android:id="@+id/reg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onRegister"
+            android:text="Register"
+            android:background="@drawable/register_button" />
+
+        <com.google.android.gms.common.SignInButton
+
+            android:layout_marginBottom="10dp"
+            android:id="@+id/btn_glogin"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Beta Version 1.0"
+
+                android:textColor="#BDBDBD"
+                android:layout_gravity="center_vertical|center" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>

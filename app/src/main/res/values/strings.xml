@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Nirapotta</string>
+    <string name="opener">Drawer open</string>
+    <string name="closer">Drawer close</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_registration">Register</string>
+    <string name="title_activity_victim_location">Map</string>
+    <string name="accept">Accept</string>
+    <string name="fsociety_details">Nirapotta is brought to you by Asymptote. Our visions include trying to solve the regular problems of the society with the available technology. We believe that everybody can contribute to the welfare of the society and our applications tend to leverage just that. All we need is a little co-operation. </string>
+    <string name="nirapotta_details">Asymptote is a tech start-up founded in 2018. We are simply a bunch of tech enthusiased individuals who believe that tech can play a pivotal role in mitigating some of the big problems we face in our country. Nirapotta is the brain child of Asymptote.</string>
+
+
+    <string name="eula_string">Terms and Conditions:
+
+            \n©Copyright 2018 Nirapotta. All Rights Reserved.
+
+
+            Last Update: 13.07.2018
+
+                    <b>1. Welcome</b>
+            \n\n\n\n\nWelcome to social security application “Nirapotta”. The following terms and conditions govern your (and any person or entity you enable/allow access through your access) access and use of this application . Please read this carefully before using this service operated by “Asymptote BD”
+                    <b>2. Acceptance of terms</b>
+            \n\n\n\n2.1  In order to browse, use and/or access this application and/or the Services you are required to agree to, comply with and be bound by the following terms and conditions. You will be deemed to have accepted these terms and conditions by browsing, viewing, accessing and/or using this application.
+            \n2.2 If you disagree with any part of these terms and conditions, please do not continue to browse, use the Services.
+            \n\n\n2.3 In addition to these, there may be additional terms and conditions which apply to individual Services which you will be deemed to have accepted if you register for such Service.
+                    <b>3. Registration and use of the Services</b>
+            \n\n\n3.1 In order to access/use or continue to access/use the application and/or certain Services, you may be required to provide certain personal information. You agree to provide true, accurate, updated, and complete information when registering for such Services.
+            \n\n\n\n3.2 You agree to access/use Services only for purposes that are expressly permitted by (i) these terms and conditions and (ii) any applicable law, regulation, guideline or instruction from Nirapotta, the industry regulator or any other competent authority or any policy adopted by Asymptote BD with regard to the acceptable access/use of this Service.
+            \n\n\n3.3 You agree that you are solely responsible and liable for (and that Nirapotta has no responsibility to you or to any third party for) any breach of your obligations under these terms and/or conditions and for the consequences (including any loss or damage which Asymptote BD may suffer) for any such breach.
+
+                    <b>4. Prohibited use of the Services and/or Contents</b>
+            \n\n\nThis application will be a bridge between a concerned citizen and a victim. Users are solely responsible for their action. For this reason, we suggest you to take help from people around you(helper) and/or call Police in extreme situation. “Don’t take law in your own hands.” React wisely based on the situation.
+
+            \n\n\n\n4.1 You specifically agree not to access/use (or attempt to access/use) any part of the Service through any form of automated means (including use of scripts or web crawlers) and shall ensure that you comply with, in addition to these terms and conditions, instructions set out in relation to the access/use of any part of the Service.
+            \n\n\n4.2 You agree that you will not engage in any form of activity that interferes with or disrupts any part of the Service (or the servers and networks which are connected to the Service).
+            4.3 You agree that you will not reproduce, duplicate, copy, sell, trade or resell any part of this Services for any purpose.
+            4.4 You, and any person or entity you allow to access/use this Service through your internet access/access
+                    <b>5. The information we may collect</b>
+            5.1  We may collect, inter alia, the following information from you:
+            (a) Full Name;
+            (b) Address;
+            (b) Gender;
+            (c) Contact Information including Mobile Number, Email Address;
+            (d) Other Information relevant to Registration, Surveys, and/or Offers.
+            5.2 If you do not wish to register, we may not collect any personal information from you. However, you will be bound by these terms and conditions with regard to access/use of this Service.
+
+                    <b>6. Use of your Information</b>
+            6.1 Nirapotta may hold and use information provided by you for a number of purposes, which may include:
+            \n(a) Carrying out any activity in connection with a legal, governmental or regulatory requirement on Nirapotta in connection with existing or prospective legal proceedings or in respect of any crime or fraud prevention, detection or prosecution.
+            \n\n(b) Monitoring and/or recording of your communications for Nirapotta’s business purposes such as marketing, quality control and training, prevention of unethical use of Nirapotta’s technical systems and ensuring effective systems operation in order to prevent, detect or prosecute any crime or fraud.
+            6.2 In addition to the above, any information we may collect from you may be used, inter alia, for the following purposes:
+            (a) For internal record keeping;
+            (b) To improve the Site (we continually strive to improve our website based on the information and feedback received from you);
+            (c) To send periodic emails;
+            (d) To administer promotion, survey or other service feature
+            \n6.3 We implement a variety of security measures to maintain safety to hold and store your personal information. However, neither we nor any third parties provide any warranty or guarantee as to the security and safety measures related to the storage of your personal information.
+                    <b>7. Intellectual Property Rights</b>
+            \n\n\n7.1 All copyright, trademarks, patents, brand names, corporate names and other intellectual property rights in any material or content (including without limitation software, data, applications, information, text, photographs, music, sound, videos, graphics, logos, symbols, artwork, designs, layout, look, appearance and other material or moving images) contained in or accessible via the Services ("Contents") is either owned by Nirapotta or has been licensed to Asymptote by the rights’ owner(s) for use as part of the Services.
+            \n\n\n7.2 You are only allowed to access/use this Service as set out in these terms and conditions. If you wish to access/use the Contents or any part thereof for any other purpose other than reviewing it on the Site then you will be required to obtain the prior written permission of the owner of the rights in that material. All rights are expressly reserved.
+            7.3 Having noted the above you shall not be entitled in respect of any Contents (wholly or partly):
+            (a) To reproduce, duplicate, copy, sell, trade or resell any part of the Contents for any purpose; or
+            \n(b) To pass any part of  the Contents on to third parties or to allow third parties to access/use any part thereof for any purpose in any way unless and to the extent expressly permitted; or
+            (c) To change, edit, modify, reformat or adapt any part of the Contents in anyway.
+                    <b>8. Use of Cookies</b>
+            \n8.1 We do not use cookies at or in our service. However, we do not take any responsibility of any third party websites whose links have been included in our service as to whether such websites use cookies or not.
+
+</string>
+    <string name="releas_key">AIzaSyANHzzlGX5Sk34HKwfvUQP1iKO07Th9CF8</string>
+    <string name="web_client_id">1098849694459-plh55rg8lntccjqq28gjnvhg559suk4j.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:text="Registration"
+        android:layout_marginBottom="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <AutoCompleteTextView
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/background_dark"
+        android:drawablePadding="10dp"
+        android:hint="Email Address"
+        android:imeOptions="actionNext"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:textCursorDrawable="@null" />
+
+
+    <AutoCompleteTextView
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/background_dark"
+        android:drawablePadding="10dp"
+        android:hint="Enter your Password (min 6 characters)"
+        android:imeOptions="actionNext"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:inputType="textPassword"
+        android:textCursorDrawable="@null" />
+
+    <AutoCompleteTextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/background_dark"
+        android:drawablePadding="10dp"
+        android:hint="Enter your Name"
+        android:imeOptions="actionNext"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:textCursorDrawable="@null" />
+
+    <AutoCompleteTextView
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/background_dark"
+        android:drawablePadding="10dp"
+        android:hint="Phone Number"
+        android:imeOptions="actionNext"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:textCursorDrawable="@null" />
+
+
+</LinearLayout>

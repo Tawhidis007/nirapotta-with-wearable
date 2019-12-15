@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Subscription.GetSubscriptionId">
+
+    <LinearLayout
+        android:background="@drawable/buy"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <Button
+            android:layout_marginTop="30dp"
+            android:elevation="8dp"
+            android:textColor="#BF360C"
+            android:textSize="28sp"
+            android:background="@drawable/roundbutton2"
+            android:layout_gravity="center"
+            android:id="@+id/go"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:text="Continue"
+
+            android:enabled="false" />
+
+        <TextView
+            android:textSize="26sp"
+            android:textAlignment="center"
+            android:text="Press to continue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+</RelativeLayout>

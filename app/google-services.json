@@ -1,0 +1,111 @@
+{
+  "project_info": {
+    "project_number": "1098849694459",
+    "firebase_url": "https://nirapottav3.firebaseio.com",
+    "project_id": "nirapottav3",
+    "storage_bucket": "nirapottav3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098849694459:android:4a67be801eaaa126",
+        "android_client_info": {
+          "package_name": "com.fsociety.nirapotta_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098849694459-sqi6rnthpp6qhaet3d8qdloao1290u3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "8b55387dfb99be4fb1f16e9dea7949309fe4b44c"
+          }
+        },
+        {
+          "client_id": "1098849694459-pnal93gqa1qubi0rfhn4vift75540oub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "64b7c480ceb1a68bbc5ff95cdc32880d249cba36"
+          }
+        },
+        {
+          "client_id": "1098849694459-vdnchareck66vd922bvnk4eg7fobs0l8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "a977fd6a61a233c66bc657141fbe22c9347dd248"
+          }
+        },
+        {
+          "client_id": "1098849694459-1lqpkspu9c0bf538f4q7i1ku7hlj1ajb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "13bd4760902d280c91ecee3baf3be1aaed421260"
+          }
+        },
+        {
+          "client_id": "1098849694459-ma7n5fsfj6pf5js9vd24khn4q6hnugc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "e0b025617ff778f55e65a061d4d2c1390fcb10b5"
+          }
+        },
+        {
+          "client_id": "1098849694459-gobeqpo73hdnq1n45n21lqabnpo56oec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "b5ed13e8feaef4e83915cee1aa5f3a6040b7c57c"
+          }
+        },
+        {
+          "client_id": "1098849694459-f4bpo2orb5rk8k6vgk5r0jgf06i7o784.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "dad56e4250e4287f4507cb529e20127713987b2f"
+          }
+        },
+        {
+          "client_id": "1098849694459-aqd0asrer6d1b2kt1323rha60u1q5lnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsociety.nirapotta_v3",
+            "certificate_hash": "62167e50e128da85f28d585e72472db2bd2bf9aa"
+          }
+        },
+        {
+          "client_id": "1098849694459-kfa0gpr3td18oloeoiale6nafa738sus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJUFiPJwb5GozXJZKv4PMULcwkTjdQuhs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098849694459-plh55rg8lntccjqq28gjnvhg559suk4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

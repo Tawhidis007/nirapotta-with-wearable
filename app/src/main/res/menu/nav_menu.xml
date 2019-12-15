@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/use_case"
+            android:icon="@drawable/information"
+            android:title="How to Use"
+            android:checked="true"></item>
+        <item
+            android:id="@+id/subscription"
+            android:icon="@drawable/sub"
+            android:title="Subscription"></item>
+
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/survey"
+            android:title="Feedback"></item>
+        <item
+            android:id="@+id/about_us"
+            android:icon="@drawable/about_us"
+            android:title="About Us"></item>
+
+    </group>
+
+
+</menu>
