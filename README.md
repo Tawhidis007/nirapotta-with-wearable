@@ -8,3 +8,5 @@ Built with Arduino pro mini, Bluetooth HC-05, Led light, switch, LC-277 Mic Modu
 # project paper
 
 The scientific paper prepared and written for this project is also available in this repo.
+
+<img src="n.jpg" />
